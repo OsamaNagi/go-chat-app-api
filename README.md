@@ -1,1 +1,1 @@
-chat app using golang, gin, react, and tailwindcss
+chat app api using golang, gin, and sqlite
